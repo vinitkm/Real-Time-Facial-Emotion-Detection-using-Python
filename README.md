@@ -6,6 +6,6 @@ The program accesses the webcam and captures real-time video frames, which are t
 The goal of this project is to provide users with a friendly and entertaining visual experience by overlaying emojis that represent the detected emotions on top of the detected faces. This approach is more effective than presenting emotions in a text format as pictorial representations tend to capture more attention. By watching their faces transform into emoji representations, users may gain insight into their own emotions, and society may benefit from this project.
 
 
-#Pleas go through the repository 
+#Please go through the repository 
 #https://coderspacket.com/real-time-facial-emotion-detection
 
